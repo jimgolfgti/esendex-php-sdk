@@ -1,0 +1,8 @@
+source:
+    - src/Esendex
+
+title: Esendex PHP SDK
+php: false
+charset: UTF-8
+
+destination: api
